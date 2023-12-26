@@ -1,0 +1,31 @@
+# Web Framework
+Flask==1.1.2
+Django==3.2.5
+
+# AI and Machine Learning
+openai==0.27.0
+
+# Database
+sqlite3==2.6.0
+psycopg2==2.8.6
+
+# Frontend
+React==17.0.2
+Vue==2.6.12
+
+# Backend
+Python==3.8.5
+
+# Testing
+pytest==6.2.4
+
+# Security
+cryptography==3.4.7
+
+# Translation
+googletrans==3.1.0a0
+
+# Other
+requests==2.25.1
+numpy==1.21.0
+pandas==1.2.5
